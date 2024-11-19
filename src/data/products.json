@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title":"Croissant",
+        "shortDescription": "Proba nuestras Croissants artesanales",
+        "longDescription": "Mezcla de proteínas [GLUTEN de trigo, aislado de proteína de SOJA (sin OGM)], HUEVO, harina de trigo (contiene GLUTEN), productos semiacabados de confitería [mantequilla (contiene LECHE), grasa vegetal (palma, coco), aceite vegetal (girasol), sal, emulgentes (lecitinas, mono- y diglicéridos de ácidos grasos)",
+        "price": 1000,
+        "stock": 200,
+        "category":"facturas",
+        "discount":10,
+        "tags": ["new", "ofert"],
+        "mainImage":"https://i.postimg.cc/Z5hfr1YP/croissant.jpg"
+    },
+    {
+       "id":2,
+        "title":"Palmera",
+        "shortDescription": "Proba nuestras Palmeras artesanales",
+        "longDescription": "Es una pieza de bollería, de masa de hojaldre de unos dos a cuatro centímetros de grosor y con una peculiar forma acorazonada con los vértices deformados. ",
+        "price": 1500,
+        "stock": 100,
+        "category":"facturas",
+        "discount":0,
+        "tags": ["new", "ofert"],
+        "mainImage":"https://i.postimg.cc/3r49zKdC/palmera.jpg" 
+    },
+    {
+        "id":3,
+        "title":"Bizcochito",
+        "shortDescription": "Proba nuestros Bizcochitos artesanales",
+        "longDescription": "galletas saladas, de tamaño ovalado y pequeño. ",
+        "price": 600,
+        "stock": 10000,
+        "category":"facturas",
+        "discount":5,
+        "tags": ["new", "ofert"],
+        "mainImage":"https://i.postimg.cc/T1N6yTvc/bizcochos.jpg"
+    }
+]

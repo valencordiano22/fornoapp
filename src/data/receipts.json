@@ -1,0 +1,37 @@
+[
+    {
+        "id": 2,
+        "userId": 2,
+        "createdAt": 1728843630000,
+        "items":[
+            {
+                "id":1,
+                "title":"Croissant",
+                "shortDescription": "Proba nuestras Croissants artesanales",
+                "longDescription": "Mezcla de proteínas [GLUTEN de trigo, aislado de proteína de SOJA (sin OGM)], HUEVO, harina de trigo (contiene GLUTEN), productos semiacabados de confitería [mantequilla (contiene LECHE), grasa vegetal (palma, coco), aceite vegetal (girasol), sal, emulgentes (lecitinas, mono- y diglicéridos de ácidos grasos)",
+                "price": 1000,
+                "stock": 200,
+                "brand": "Integral",
+                "category":"facturas",
+                "discount":10,
+                "tags": ["new", "ofert"],
+                "mainImage":"https://i.postimg.cc/Z5hfr1YP/croissant.jpg",
+                "quantity":1
+            },
+            {
+               "id":2,
+               "title":"Palmera",
+               "shortDescription": "Proba nuestras Palmeras artesanales",
+               "longDescription": "Es una pieza de bollería, de masa de hojaldre de unos dos a cuatro centímetros de grosor y con una peculiar forma acorazonada con los vértices deformados. ",
+               "price": 1500,
+               "stock": 100,
+               "brand":"Integral",
+              "category":"facturas",
+              "discount":0,
+              "tags": ["new", "ofert"],
+              "mainImage":"https://i.postimg.cc/3r49zKdC/palmera.jpg",
+              "quantity":1 
+            }
+        ]
+    }
+]
